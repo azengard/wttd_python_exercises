@@ -8,8 +8,8 @@ run > ...py
 run > edit_confi > param >alice.txt
 
 basic
-    string1
-    list1
+    .string1
+    .list1
     string2
     list2
     mimic
